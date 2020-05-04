@@ -1,4 +1,4 @@
-package factory.singleton.calculator;
+package singleton.calculator;
 
 public class Client {
     private String name;

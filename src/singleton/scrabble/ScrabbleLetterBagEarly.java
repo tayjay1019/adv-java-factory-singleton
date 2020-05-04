@@ -1,4 +1,4 @@
-package factory.singleton.scrabble;
+package singleton.scrabble;
 
 /**
  * Similar to the classic singleton, this version creates

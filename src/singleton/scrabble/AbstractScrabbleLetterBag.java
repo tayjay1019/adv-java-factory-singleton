@@ -1,4 +1,4 @@
-package factory.singleton.scrabble;
+package singleton.scrabble;
 
 import java.util.ArrayList;
 import java.util.Arrays;

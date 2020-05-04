@@ -1,4 +1,4 @@
-package factory.singleton.scrabble;
+package singleton.scrabble;
 
 public class ScrabblePlayer {
     private String playerName;

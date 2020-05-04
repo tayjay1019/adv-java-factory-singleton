@@ -1,4 +1,4 @@
-package factory.singleton.calculator;
+package singleton.calculator;
 
 import java.util.ArrayList;
 import java.util.List;

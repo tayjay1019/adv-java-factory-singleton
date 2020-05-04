@@ -1,4 +1,4 @@
-package factory.singleton.scrabble;
+package singleton.scrabble;
 
 /**
  * Implements a scrabble letter bag with the classic singleton
